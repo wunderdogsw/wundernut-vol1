@@ -2,6 +2,8 @@
 
 *Spring 2015*
 
+(Find our other wundernuts [here](https://github.com/wunderdogsw/wunderpahkinas))
+
 *“A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.”* -Alan Turing
 
 Koodauspähkinä: Hassuimmat sanat
